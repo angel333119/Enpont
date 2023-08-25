@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enpont", "Enpont\Enpont.csproj", "{8680898C-8DF4-4D9C-9A69-8CD542E544CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8680898C-8DF4-4D9C-9A69-8CD542E544CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8680898C-8DF4-4D9C-9A69-8CD542E544CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8680898C-8DF4-4D9C-9A69-8CD542E544CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8680898C-8DF4-4D9C-9A69-8CD542E544CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A21C15-EF7B-4A37-B43E-743301B1EA7C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\333\source\repos\Enpont\Enpont\bin\Debug\Enpont.exe.config
+D:\333\source\repos\Enpont\Enpont\bin\Debug\Enpont.exe
+D:\333\source\repos\Enpont\Enpont\bin\Debug\Enpont.pdb
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.csproj.AssemblyReference.cache
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.csproj.SuggestedBindingRedirects.cache
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.Form1.resources
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.Properties.Resources.resources
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.csproj.GenerateResource.cache
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.csproj.CoreCompileInputs.cache
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.exe
+D:\333\source\repos\Enpont\Enpont\obj\Debug\Enpont.pdb
